@@ -1,8 +1,0 @@
-C:\Users\shado\source\repos\EjerciciosRepasoC#\SolucionProfesorA2.8\obj\Debug\SolucionProfesorA2.8.csproj.AssemblyReference.cache
-C:\Users\shado\source\repos\EjerciciosRepasoC#\SolucionProfesorA2.8\obj\Debug\SolucionProfesorA2.8.csproj.CoreCompileInputs.cache
-C:\Users\shado\source\repos\EjerciciosRepasoC#\SolucionProfesorA2.8\bin\Debug\SolucionProfesorA2.8.exe.config
-C:\Users\shado\source\repos\EjerciciosRepasoC#\SolucionProfesorA2.8\bin\Debug\SolucionProfesorA2.8.exe
-C:\Users\shado\source\repos\EjerciciosRepasoC#\SolucionProfesorA2.8\bin\Debug\SolucionProfesorA2.8.pdb
-C:\Users\shado\source\repos\EjerciciosRepasoC#\SolucionProfesorA2.8\obj\Debug\SolucionProfesorA2.8.exe
-C:\Users\shado\source\repos\EjerciciosRepasoC#\SolucionProfesorA2.8\obj\Debug\SolucionProfesorA2.8.pdb
-C:\Users\shado\source\repos\EjerciciosRepasoC#\SolucionProfesorA2.8\obj\Debug\SolucionProfesorA2.8.exe.config

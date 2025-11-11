@@ -1,8 +1,0 @@
-C:\Users\shado\source\repos\EjerciciosRepasoC#\EjercicioRepasoA2.9\bin\Debug\EjercicioRepasoA2.9.exe.config
-C:\Users\shado\source\repos\EjerciciosRepasoC#\EjercicioRepasoA2.9\bin\Debug\EjercicioRepasoA2.9.exe
-C:\Users\shado\source\repos\EjerciciosRepasoC#\EjercicioRepasoA2.9\bin\Debug\EjercicioRepasoA2.9.pdb
-C:\Users\shado\source\repos\EjerciciosRepasoC#\EjercicioRepasoA2.9\obj\Debug\EjercicioRepasoA2.9.csproj.AssemblyReference.cache
-C:\Users\shado\source\repos\EjerciciosRepasoC#\EjercicioRepasoA2.9\obj\Debug\EjercicioRepasoA2.9.csproj.CoreCompileInputs.cache
-C:\Users\shado\source\repos\EjerciciosRepasoC#\EjercicioRepasoA2.9\obj\Debug\EjercicioRepasoA2.9.exe
-C:\Users\shado\source\repos\EjerciciosRepasoC#\EjercicioRepasoA2.9\obj\Debug\EjercicioRepasoA2.9.pdb
-C:\Users\shado\source\repos\EjerciciosRepasoC#\EjercicioRepasoA2.9\obj\Debug\EjercicioRepasoA2.9.exe.config
